@@ -1,0 +1,61 @@
+/*
+Theme Name: MornRain Minimal
+Theme URI: https://github.com/mornrain-lin/mornrain-minimal
+Author: mornrain-lin
+Author URI: https://github.com/mornrain-lin
+Description: A distraction-free single-column, sidebar-free theme for long-form reading.
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.6
+Requires PHP: 8.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: mornrain-minimal
+Tags: blog, one-column, custom-logo, custom-menu, featured-images, translation-ready, block-styles
+
+MornRain Minimal is free software: you can redistribute it and/or modify it under the
+terms of the GNU General Public License as published by the Free Software
+Foundation, either version 2 of the License, or (at your option) any later
+version.
+
+MornRain Minimal is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+All layout and component styles live in assets/css/main.css. This file carries
+the required theme header plus a few base rules that must be available before
+main.css is loaded.
+*/
+
+/* 1. Base ---------------------------------------------------------------- */
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	word-wrap: break-word;
+}
+
+/* 2. Theme signature ----------------------------------------------------- */
+:root {
+	--mm-measure: 42.5rem;
+}
+
+body {
+	background-color: #ffffff;
+	color: #1a1a1a;
+	font-size: 1.125rem;
+	line-height: 1.85;
+}
+
+.site-header,
+.site-footer {
+	text-align: center;
+}
+
+.site-title a {
+	font-weight: 600;
+	letter-spacing: 0.02em;
+}
