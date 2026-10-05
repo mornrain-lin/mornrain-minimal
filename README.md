@@ -1,14 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: cf93d2ba4252e3fc820ac383cb09c649_7a2166debe7a11f18019525400248c00
-    ReservedCode1: 7Ihw+54EKvB0Cs/yVJzkcN0vS4cCWkO0JH+WVh3Wjb8kEljNvdZbOn0s6mgcEcL8pw48tVRkM4CQVILr9LAvJp0aH7soukII2xpkALPfaiPXmSG6B84l9sNG2z1pVhWCTOm+U7ubTlC+fRvKVRA668LYAjRSa/u+RM1ooLG5uV6YfRgX2CuYavg5TVQ=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: cf93d2ba4252e3fc820ac383cb09c649_7a2166debe7a11f18019525400248c00
-    ReservedCode2: 7Ihw+54EKvB0Cs/yVJzkcN0vS4cCWkO0JH+WVh3Wjb8kEljNvdZbOn0s6mgcEcL8pw48tVRkM4CQVILr9LAvJp0aH7soukII2xpkALPfaiPXmSG6B84l9sNG2z1pVhWCTOm+U7ubTlC+fRvKVRA668LYAjRSa/u+RM1ooLG5uV6YfRgX2CuYavg5TVQ=
----
-
 # MornRain Minimal
 
 > A distraction-free single column for long-form reading.
