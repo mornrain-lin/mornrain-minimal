@@ -1,3 +1,5 @@
+![mornrain-minimal](assets/preview.png)
+
 # MornRain Minimal
 
 > A distraction-free single column for long-form reading.
